@@ -1,0 +1,11 @@
+#calculatrice {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+#display {
+    width: 100px;
+    height: 40px;
+    text-align: right;
+}
